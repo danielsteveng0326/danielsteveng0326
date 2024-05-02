@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielsteveng0326" alt="danielsteveng0326" /></a> </p>
 
-- 🔭 I’m currently working on **Contratación en Antioquia**
+- 🔭 I’m currently working like a **Data Analyst in EL Carmen de Viboral Mayorship**
 
-- 🌱 I’m currently learning **BlockChain and Smart Contracts**
+- 🌱 I’m currently learning **English and AWS**
 
 - 💬 Ask me about **Python, Data Analyst and Photography**
 
